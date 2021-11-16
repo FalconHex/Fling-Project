@@ -1,6 +1,10 @@
 # Fling-Project  
 Built an alternate version of tinder called  *FLING*  
 
+
+https://user-images.githubusercontent.com/68680026/142028933-d7106911-7dd2-4e1e-bd60-73139fc27670.mp4
+
+
 ## Features  
 - Sign in using Google  
 - Create or update profile  (upload image, age, job)
