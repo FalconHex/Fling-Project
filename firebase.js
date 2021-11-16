@@ -15,12 +15,7 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-    apiKey: 'AIzaSyDUsx-ktIbX0ji7NbsvJCN1QAtVlKPmpSo',
-    authDomain: 'fling-app-9fbec.firebaseapp.com',
-    projectId: 'fling-app-9fbec',
-    storageBucket: 'fling-app-9fbec.appspot.com',
-    messagingSenderId: '42117056697',
-    appId: '1:42117056697:web:37167155690e45779cb368'
+    // config hidden for privacy reason
 };
 
 // Initialize Firebase

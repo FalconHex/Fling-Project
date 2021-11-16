@@ -7,8 +7,8 @@ const AuthContext = createContext({});
 
 const config = {
 
-    androidClientId: "42117056697-g7d4q367f89f2q54ladmqhe30plkgss1.apps.googleusercontent.com" ,
-    iosClientId: "42117056697-iqlfn3e3o87090bus8iboboscg5bvpi7.apps.googleusercontent.com",
+    androidClientId: // config hidden for privacy reason ,
+    iosClientId: // config hidden for privacy reason,
 
     scopes: ["profile", "email"],
     permissions: ["public_profile", "email", "gender", "location"],
